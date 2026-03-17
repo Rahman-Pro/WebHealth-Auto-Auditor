@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Scan first N links for 4xx/5xx responses.","1615","test_broken_links","","Tue Mar 17 21:10:07 UTC 2026","passed","Tue Mar 17 21:10:08 UTC 2026","TestWebHealthAndSecurity","test_web_health","",""
+"Verify HTTPS.","27","test_ssl_security","","Tue Mar 17 21:10:06 UTC 2026","passed","Tue Mar 17 21:10:06 UTC 2026","TestWebHealthAndSecurity","test_web_health","",""
+"Validate title and meta description.","55","test_seo_meta_tags","","Tue Mar 17 21:10:06 UTC 2026","passed","Tue Mar 17 21:10:07 UTC 2026","TestWebHealthAndSecurity","test_web_health","",""
+"Load time via Navigation Timing Level 2.","5","test_page_load_performance","","Tue Mar 17 21:10:07 UTC 2026","passed","Tue Mar 17 21:10:07 UTC 2026","TestWebHealthAndSecurity","test_web_health","",""
+"Check viewport tag and no horizontal overflow at mobile width.","91","test_mobile_responsive_viewport","","Tue Mar 17 21:10:07 UTC 2026","passed","Tue Mar 17 21:10:07 UTC 2026","TestWebHealthAndSecurity","test_web_health","",""
